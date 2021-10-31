@@ -22,7 +22,7 @@ This is not something we can accomplish using a PSQuery data source and the gene
 
 ### Walkthrough Documentation: See PDF
 
-### YouTube demo: TBD
+### YouTube demo: https://youtu.be/cvzGF4jpvnY
 
 ### Contact:  
 * randy@peopletoolstechtips.com  
