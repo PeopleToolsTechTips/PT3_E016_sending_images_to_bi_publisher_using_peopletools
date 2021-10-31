@@ -6,11 +6,17 @@ Sending Images to BI Publisher using PeopleTools
 PeopleTools Tech Tips    
 Randy Groncki	2021-10-31
 
-A demonstration with code examples of moving images from PeopleTools tables to files and basic manipulation of those image files using Java classes
-  Using Attachment functionality to export image from PeopleTools tables to a file
-  Get Image Dimensions
-  Convert image to new type.  Example provided is PNG to JPG
-  Resize Image
+Using PeopleTools, we can generate BI Publisher reports containing images from our PeopleSoft environment.  For example, an employee report listing with the employee’s photo or an asset report containing the item pictures.
+
+To accomplish this, we need to use several technologies previously covered:
+•	Create an XML File with PeopleTools using the Rowset Method
+•	Invoke BI Publisher with PeopleCode
+•	Using Design Time Images in PeopleTools
+•	User Uploaded Images in PeopleTools
+•	File Image Utilities PeopleSoft forgot
+
+This is not something we can accomplish using a PSQuery data source and the generic BI Publisher App Engine.   The above subjects are outside the scope of this document.  See the included links for detail instructions, downloadable objects and code for each of these subjects
+
 
 ### Web Posting: https://peopletoolstechtips.com/sending-images-to-bi-publisher-using-peopletools
 
