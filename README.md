@@ -25,7 +25,7 @@ A demonstration with code examples of moving images from PeopleTools tables to f
 This file contains all the objects referenced in the video and document.
 
 ## Walk Through PDF
-* PT3 File Image Utilities.pdf
+* PT3 Sending Images to BI Publisher.pdf
 
 ## PeopleTools Project is using PeopleTools 8.59.04
   * This contains all the components, pages, records and PeopleCode used in the demonstration.
