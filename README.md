@@ -18,7 +18,7 @@ To accomplish this, we need to use several technologies previously covered:
 This is not something we can accomplish using a PSQuery data source and the generic BI Publisher App Engine.   The above subjects are outside the scope of this document.  See the included links for detail instructions, downloadable objects and code for each of these subjects
 
 
-### Web Posting: https://peopletoolstechtips.com/sending-images-to-bi-publisher-using-peopletools
+### Web Posting: https://peopletoolstechtips.com/sending-images-to-bi-publisher-using-peopletools/
 
 ### Walkthrough Documentation: See PDF
 
